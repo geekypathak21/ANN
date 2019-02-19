@@ -1,14 +1,14 @@
-#Artificial Neural Network
+# Artificial Neural Network
 
 This is an example of artificial neural network using keras and tensorflow at backend
 
-##Dataset used 
+## Dataset used 
 
 I have used churn modelling dataset. **Churn_Modelling.csv**
 
 This dataset contains details of customer details of a bank.
 
-##Problem Solved
+## Problem Solved
 In this ANN model I predict that which customer of this bank has the highest probability to leave bank. So, that bank can give more attention
 towards those customer which are more prior to leave the bank
 
